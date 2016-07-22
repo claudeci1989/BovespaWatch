@@ -1,7 +1,7 @@
 # Bovespa Watch
 Tool for following stock price updates at the BM&FBovespa.
 
-###### Full Description
+#### Full Description
 
 This is a simple Go application that will watch changes in the Brazilian stock market - [BM&FBovespa] - in order to notify the user (via the SMS protocol, with the help of [Twilio]) when pre-defined events happen (if they happen).
 
@@ -15,7 +15,7 @@ This project uses several open source softwares to work properly, they are:
 
 ## Cost
 
-###### SMS delivery
+#### SMS delivery
 
 `$1` for the Twilio number, monthly. `$0.06` per message.
 Estimated 120 messages/mo -> `$7.20`.
